@@ -6,7 +6,7 @@ class Solution {
        int low=0;
        int high=0;
 
-       //calculating low and high
+       //calculating low and high 
        for(int weight:weights){
             low=Math.max(weight,low);
             high+=weight;
