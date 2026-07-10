@@ -4,7 +4,7 @@ class Solution {
         
         
 
-        //optimal 2:
+        //optimal 2: 
         int left=0;
         int n=nums.length;
         int right=n-1;
