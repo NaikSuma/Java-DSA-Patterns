@@ -3,7 +3,7 @@ class Solution {
 
     public int shipWithinDays(int[] weights, int days) {
 
-       int low=0;
+       int low=0; 
        int high=0;
 
        //calculating low and high
