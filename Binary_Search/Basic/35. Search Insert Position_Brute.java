@@ -5,7 +5,7 @@ class Solution {
         // int left=0;
         // int n=nums.length; 
         // int right=n-1;
-
+ 
         // int ans=n;
 
         // while(left<=right){
