@@ -1,7 +1,7 @@
 
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        
+         
         int first=-1;
         int last=-1;
 
