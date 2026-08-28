@@ -2,7 +2,7 @@
 class Solution {
     public boolean search(int[] nums, int target) {
         
-        
+         
 
         //optimal 2: 
         int left=0;
