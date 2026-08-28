@@ -2,7 +2,7 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
          
-        int first=-1;
+        int first=-1; 
         int last=-1;
 
         for(int i=0;i<nums.length;i++){
